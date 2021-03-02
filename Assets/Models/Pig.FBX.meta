@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: 9e3c25dcf30722949afb1ed36443afcd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Pig_mesh
+    100004: Head_AuxSHJnt
+    100006: l_Clavicle_AuxSHJnt
+    100008: l_Ear_01_01SHJnt
+    100010: l_Ear_01_02SHJnt
+    100012: l_FrontLeg_AnkleSHJnt
+    100014: l_FrontLeg_BallSHJnt
+    100016: l_FrontLeg_HipSHJnt
+    100018: l_FrontLeg_KneeSHJnt
+    100020: l_HindLeg_AnkleSHJnt
+    100022: l_HindLeg_BallSHJnt
+    100024: l_HindLeg_HipSHJnt
+    100026: l_HindLeg_Knee1SHJnt
+    100028: l_HindLeg_Knee2SHJnt
+    100030: Mesh_grp
+    100032: Nose_AuxSHJnt
+    100034: Pig_mesh_1
+    100036: r_Clavicle_AuxSHJnt
+    100038: r_Ear_01_01SHJnt
+    100040: r_Ear_01_02SHJnt
+    100042: r_FrontLeg_AnkleSHJnt
+    100044: r_FrontLeg_BallSHJnt
+    100046: r_FrontLeg_HipSHJnt
+    100048: r_FrontLeg_KneeSHJnt
+    100050: r_HindLeg_AnkleSHJnt
+    100052: r_HindLeg_BallSHJnt
+    100054: r_HindLeg_HipSHJnt
+    100056: r_HindLeg_Knee1SHJnt
+    100058: r_HindLeg_Knee2SHJnt
+    100060: ROOTSHJnt
+    100062: Spine_01SHJnt
+    100064: Spine_02SHJnt
+    100066: Spine_TopSHJnt
+    100068: Tail_01_01SHJnt
+    100070: Tail_01_02SHJnt
+    100072: TrajectorySHJnt
+    400000: //RootNode
+    400002: Pig_mesh
+    400004: Head_AuxSHJnt
+    400006: l_Clavicle_AuxSHJnt
+    400008: l_Ear_01_01SHJnt
+    400010: l_Ear_01_02SHJnt
+    400012: l_FrontLeg_AnkleSHJnt
+    400014: l_FrontLeg_BallSHJnt
+    400016: l_FrontLeg_HipSHJnt
+    400018: l_FrontLeg_KneeSHJnt
+    400020: l_HindLeg_AnkleSHJnt
+    400022: l_HindLeg_BallSHJnt
+    400024: l_HindLeg_HipSHJnt
+    400026: l_HindLeg_Knee1SHJnt
+    400028: l_HindLeg_Knee2SHJnt
+    400030: Mesh_grp
+    400032: Nose_AuxSHJnt
+    400034: Pig_mesh_1
+    400036: r_Clavicle_AuxSHJnt
+    400038: r_Ear_01_01SHJnt
+    400040: r_Ear_01_02SHJnt
+    400042: r_FrontLeg_AnkleSHJnt
+    400044: r_FrontLeg_BallSHJnt
+    400046: r_FrontLeg_HipSHJnt
+    400048: r_FrontLeg_KneeSHJnt
+    400050: r_HindLeg_AnkleSHJnt
+    400052: r_HindLeg_BallSHJnt
+    400054: r_HindLeg_HipSHJnt
+    400056: r_HindLeg_Knee1SHJnt
+    400058: r_HindLeg_Knee2SHJnt
+    400060: ROOTSHJnt
+    400062: Spine_01SHJnt
+    400064: Spine_02SHJnt
+    400066: Spine_TopSHJnt
+    400068: Tail_01_01SHJnt
+    400070: Tail_01_02SHJnt
+    400072: TrajectorySHJnt
+    2100000: mat_pig
+    2300000: Pig_mesh
+    2300002: Pig_mesh_1
+    3300000: Pig_mesh
+    3300002: Pig_mesh_1
+    4300000: Pig_mesh
+    4300002: Pig_mesh_1
+    9500000: //RootNode
+    13700000: Pig_mesh_1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.02
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
